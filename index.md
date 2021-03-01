@@ -4,7 +4,7 @@ Onlydays will help you to track the events that you never want to forget. On a g
 
 Also it lets you to schedule your future events and tracks it until it arrives and allows you to set reminders as per options provided.
 
-Below are the different categories that you can choose to create your events. 
+### Below are the different categories that you can choose to create your events. 
 				- Birthdays
 				- Anniversaries
 				- Business
