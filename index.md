@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Onlydays app
 
-You can use the [editor on GitHub](https://github.com/karapurakesh/Onlydays-about/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Onlydays will help you to track the events that you never want to forget. On a glance you will be able to understand how long the event has been passed and displays the details in unit level.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Also it lets you to schedule your future events and tracks it until it arrives and allows you to set reminders as per options provided.
 
-### Markdown
+Below are the different categories that you can choose to create your events. 
+				1. Birthdays
+				2. Anniversaries
+				3. Business
+				4. Family 
+				5. General
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Some of the example events that you can create
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karapurakesh/Onlydays-about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- When did you got your first job
+- When did you owned your first car
+- When did you started your Workout  
+- When did you released your first app to AppStore
