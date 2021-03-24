@@ -14,7 +14,9 @@ Also it lets you to schedule your future events and tracks it until it arrives a
 
 ### Some of the example events that you can create
 
-- When did you got your first job
-- When did you owned your first car
-- When did you started your Workout  
-- When did you released your first app to AppStore
+- When did you get your first job
+- When did you own your first car
+- When did you start your Workout  
+- When did you own your first House
+
+Any Questions ? Please send an email to onlydaysapp@gmail.com with subject line "Onlydays app feedback", I would love to hear from you and answer any questions you may have. 
