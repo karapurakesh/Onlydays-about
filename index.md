@@ -19,4 +19,4 @@ Also it lets you to schedule your future events and tracks it until it arrives a
 - When did you start your Workout  
 - When did you own your first House
 
-Any Questions ? Please send an email to onlydaysapp@gmail.com with subject line "Onlydays app feedback", I would love to hear from you and answer any questions you may have. 
+Any Questions ? Please send an email to _onlydaysapp@gmail.com_ with subject line _"Onlydays app feedback"_, I would love to hear from you and answer any questions you may have. 
